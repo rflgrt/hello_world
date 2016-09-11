@@ -3,5 +3,4 @@
 def funktion():
     print("Hello")
 
-print("Virus")
-#und noch eine Änderung
+#so ein quatsch
